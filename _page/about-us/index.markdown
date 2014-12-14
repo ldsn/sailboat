@@ -5,6 +5,7 @@ date: 2010-12-09 17:15:47+00:00
 layout: page
 slug: about-us
 title: 关于鲁东大学学生网
+permalink: /about-us/
 wordpress_id: 2
 ---
 

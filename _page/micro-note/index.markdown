@@ -5,6 +5,7 @@ date: 2012-11-14 14:58:13+00:00
 layout: page
 slug: micro-note
 title: 碎语札记
+permalink: micro-note
 wordpress_id: 239
 ---
 

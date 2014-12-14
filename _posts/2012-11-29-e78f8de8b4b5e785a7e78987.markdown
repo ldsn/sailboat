@@ -1,0 +1,18 @@
+---
+author: kadai
+comments: true
+date: 2012-11-29 12:57:42+00:00
+layout: post
+slug: '%e7%8f%8d%e8%b4%b5%e7%85%a7%e7%89%87'
+title: 珍贵照片
+wordpress_id: 296
+categories:
+- 一段历史
+---
+
+[gallery]
+
+
+
+
+由于以前没有妥善的保管，以前我们07级的一些照片（办公室里的各种照片）都不见了。经过翻箱倒柜，终于捣腾出这唯一的两张照片。

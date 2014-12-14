@@ -5,7 +5,7 @@ date: 2010-12-14 12:56:04+00:00
 layout: page
 slug: '%e6%88%91%e4%bb%ac%e8%bf%99%e4%b8%80%e5%ae%b6%e4%ba%ba'
 title: 我们这一家人
-permalink: family
+permalink: /family/
 wordpress_id: 80
 ---
 

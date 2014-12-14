@@ -5,7 +5,7 @@ date: 2013-06-09 01:30:26+00:00
 layout: page
 slug: t-shirt
 title: 文化衫
-permalink: t-thirt
+permalink: /t-thirt/
 wordpress_id: 350
 ---
 

@@ -12,33 +12,33 @@ wordpress_id: 350
 
 ===第一版文化衫正面===
 
-[![2013-09-19-0455](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0455-300x168.jpg)]
+[2013-09-19-0455](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0455-300x168.jpg)
 
 ===第一版文化衫背面===
 
-[![2013-09-19-0456](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0456-300x168.jpg)]
+[2013-09-19-0456](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0456-300x168.jpg)
 
 ===第二版文化衫正面===
 
-[![2013-09-19-0461](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0461-300x168.jpg)]
+[2013-09-19-0461](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0461-300x168.jpg)
 
 
 
 ===第二版文化衫背面===
 
-[![2013-09-19-0458](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0458-300x168.jpg)]
+[2013-09-19-0458](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0458-300x168.jpg)
 
 
 
 ===第三版文化衫正面===
 
-[![2013-09-19-0459](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0459-300x168.jpg)]
+[2013-09-19-0459](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0459-300x168.jpg)
 
 
 
 ===第三版文化衫背面===
 
-[![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0462-300x168.jpg)]
+[2013-09-19-0462](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0462-300x168.jpg)
 
 
 
@@ -46,10 +46,10 @@ wordpress_id: 350
 
 ===第四版文化衫正面===
 
-[![正 2](http://sailboat.ldustu.com/uploads/2013/06/正-2.jpg)]shirt/%e6%ad%a3-2)
+[正 2](http://sailboat.ldustu.com/uploads/2013/06/正-2.jpg)shirt/%e6%ad%a3-2)
 
 
 
 ===第四版文化衫反面===
 
-[![反面2](http://sailboat.ldustu.com/uploads/2013/06/反面2.jpg)]-shirt/%e5%8f%8d%e9%9d%a22)
+[反面2](http://sailboat.ldustu.com/uploads/2013/06/反面2.jpg)-shirt/%e5%8f%8d%e9%9d%a22)

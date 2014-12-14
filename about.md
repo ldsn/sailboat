@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于鲁大学生网
 permalink: /about-us/
 ---
 <h3>关于鲁东大学学生网</h3>

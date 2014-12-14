@@ -3,7 +3,6 @@ layout: page
 title: 关于鲁大学生网
 permalink: /about-us/
 ---
-<h3>关于鲁东大学学生网</h3>
 
 这里是鲁大学生网团队的博客（Our team blog）!!!   欢迎各位光临~~~
 

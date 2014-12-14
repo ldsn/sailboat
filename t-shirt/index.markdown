@@ -46,10 +46,10 @@ wordpress_id: 350
 
 ===第四版文化衫正面===
 
-![正 2](http://sailboat.ldustu.com/uploads/2013/06/正-2.jpg)shirt/%e6%ad%a3-2-169x300.jpg)
+![正 2](http://sailboat.ldustu.com/uploads/2013/06/正-2-169x300.jpg)
 
 
 
 ===第四版文化衫反面===
 
-![反面2](http://sailboat.ldustu.com/uploads/2013/06/反面2.jpg)-shirt/%e5%8f%8d%e9%9d%a22-169x300.jpg)
+![反面2](http://sailboat.ldustu.com/uploads/2013/06/反面2169x300.jpg)

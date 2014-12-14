@@ -220,7 +220,7 @@ by 郝延丽
 
 纳新面试……  
 
-[![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/1-300x225.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/1.jpg)
+[![](http://sailboat.ldustu.com/uploads/2012/05/1-300x225.jpg)](http://sailboat.ldustu.com/uploads/2012/05/1.jpg)
 
 
 
@@ -228,7 +228,7 @@ by 郝延丽
 
 
 
-曾经……[![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/2-225x300.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/2.jpg)
+曾经……[![](http://sailboat.ldustu.com/uploads/2012/05/2-225x300.jpg)](http://sailboat.ldustu.com/uploads/2012/05/2.jpg)
 
 
 
@@ -241,7 +241,7 @@ by 郝延丽
 
 
 
- [![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/3-300x201.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/3.jpg)
+ [![](http://sailboat.ldustu.com/uploads/2012/05/3-300x201.jpg)](http://sailboat.ldustu.com/uploads/2012/05/3.jpg)
 
 
 
@@ -251,7 +251,7 @@ by 郝延丽
 
 
 
- [![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/4.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/4.jpg)
+ [![](http://sailboat.ldustu.com/uploads/2012/05/4.jpg)](http://sailboat.ldustu.com/uploads/2012/05/4.jpg)
 
 
 
@@ -261,7 +261,7 @@ by 郝延丽
 
 
 
- [![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/5.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/5.jpg)
+ [![](http://sailboat.ldustu.com/uploads/2012/05/5.jpg)](http://sailboat.ldustu.com/uploads/2012/05/5.jpg)
 
 
 
@@ -271,12 +271,12 @@ by 郝延丽
 
 
 
- [![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/6.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/6.jpg)
+ [![](http://sailboat.ldustu.com/uploads/2012/05/6.jpg)](http://sailboat.ldustu.com/uploads/2012/05/6.jpg)
 
 
 
 
-快乐的记忆[![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/7.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/7.jpg)
+快乐的记忆[![](http://sailboat.ldustu.com/uploads/2012/05/7.jpg)](http://sailboat.ldustu.com/uploads/2012/05/7.jpg)
 
 
 
@@ -286,7 +286,7 @@ by 郝延丽
 
 
 
-[![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/8.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/8.jpg)
+[![](http://sailboat.ldustu.com/uploads/2012/05/8.jpg)](http://sailboat.ldustu.com/uploads/2012/05/8.jpg)
 
 
 
@@ -294,7 +294,7 @@ by 郝延丽
 
 
 
-元旦晚会ing……[在线扑克室](http://sailboat.ldustu.com/wp-content/uploads/2012/05/9.jpg)  class="aligncenter wp-image-184" title="9" src="http://sailboat.ldustu.com/wp-content/uploads/2012/05/9.jpg" alt="" width="480" height="360" />
+元旦晚会ing……[![](http://sailboat.ldustu.com/uploads/2012/05/9.jpg)](http://sailboat.ldustu.com/uploads/2012/05/9.jpg)
 
 
 
@@ -304,9 +304,9 @@ by 郝延丽
 
 
 
-[![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/10.jpg)  
+[![](http://sailboat.ldustu.com/uploads/2012/05/10.jpg)  
 
-](http://sailboat.ldustu.com/wp-content/uploads/2012/05/10.jpg)
+](http://sailboat.ldustu.com/uploads/2012/05/10.jpg)
 
 
 
@@ -322,7 +322,7 @@ by 郝延丽
 
 
 
-[![](http://sailboat.ldustu.com/wp-content/uploads/2012/05/11.jpg)](http://sailboat.ldustu.com/wp-content/uploads/2012/05/11.jpg)
+[![](http://sailboat.ldustu.com/uploads/2012/05/11.jpg)](http://sailboat.ldustu.com/uploads/2012/05/11.jpg)
 
 
 

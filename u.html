@@ -7,8 +7,15 @@
 <body>
 	<script>
 		var hash = location.hash.substr(1);
-		if (hash == 'about')
-			location.href = "http://sailboat.ldustu.com/about-us";
+
+		switch(hash){
+			case 'about':
+				location.href = "http://sailboat.ldustu.com/about-us";
+				break;
+			default :
+				location.href = "http://sailboat.ldustu.com";
+				break;
+		}
 	</script>
 </body>
 </html>

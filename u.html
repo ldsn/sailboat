@@ -7,11 +7,11 @@
 <body>
 	<script>
 		var list = {
-			about: 'http://about.ldustu.com/about-us',
+			about: 'http://sailboat.ldustu.com/about-us',
 			sailboat : 'http://sailboat.ldustu.com/' 
 		}
 
-		var hash = location.hash.substr(1) || 'sailboat';
+		var hash = location.hash.substr(1) in list ? location.hash.substr(1) : 'sailboat';
 
 		location.href = list[hash];
 

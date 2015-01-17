@@ -6,16 +6,15 @@
 </head>
 <body>
 	<script>
-		var hash = location.hash.substr(1);
-
-		switch(hash){
-			case 'about':
-				location.href = "http://sailboat.ldustu.com/about-us";
-				break;
-			default :
-				location.href = "http://sailboat.ldustu.com";
-				break;
+		var list = {
+			about: 'http://about.ldustu.com/about-us',
+			sailboat : 'http://sailboat.ldustu.com/' 
 		}
+
+		var hash = location.hash.substr(1) || 'sailboat';
+
+		location.href = list[hash];
+
 	</script>
 </body>
 </html>

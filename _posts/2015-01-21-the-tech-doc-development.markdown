@@ -27,3 +27,5 @@ categories:
 	2、让新人更早接触github，熟悉github环境
 	3、维护成本低
 	4、方便合作编写，越来越多的人离开校园后，依然可以异地参与相关教程之类的讨论与编写工作。(EYT001)
+
+文档平台地址：https://github.com/ldsn/tech-doc

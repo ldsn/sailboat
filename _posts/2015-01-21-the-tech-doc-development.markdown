@@ -23,6 +23,7 @@ categories:
 文档平台暂时分成了三个区backend-war-zone、frontend-war-zone、arsenal 分别是后端站场、前端站区、兵工厂，分别发表前端后端和一些通用的技术。未来要添加培训、产品技术文档相关分区。
 
 简介谈一下使用github做文档平台的一些好处
+
 	1、数据不易丢失
 	2、让新人更早接触github，熟悉github环境
 	3、维护成本低

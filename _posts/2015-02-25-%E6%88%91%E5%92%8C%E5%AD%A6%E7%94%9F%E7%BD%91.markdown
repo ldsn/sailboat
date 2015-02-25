@@ -7,7 +7,7 @@ slug: '%E6%88%91%E5%92%8C%E5%AD%A6%E7%94%9F%E7%BD%91'
 title: 我和学生网
 wordpress_id: 500
 categories:
-- 一段历史
+- 近未来
 ---
 #我和学生网
 

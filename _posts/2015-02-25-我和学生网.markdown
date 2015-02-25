@@ -1,3 +1,14 @@
+---
+author: kadai
+comments: true
+date: 2012-11-29 12:57:42+00:00
+layout: post
+slug: '%e7%8f%8d%e8%b4%b5%e7%85%a7%e7%89%87'
+title: 我和学生网
+wordpress_id: 500
+categories:
+- 一段历史
+---
 #我和学生网
 
 第一次写团队博客，这是我在学生网的第二年，第一年也是偶然中偶然的混着技术下来的，说要谈谈我对学生网的感触，

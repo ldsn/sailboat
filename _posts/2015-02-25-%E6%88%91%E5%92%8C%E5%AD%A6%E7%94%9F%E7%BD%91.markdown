@@ -5,7 +5,7 @@ date: 2015-02-25 09:33:42+00:00
 layout: post
 slug: '%E6%88%91%E5%92%8C%E5%AD%A6%E7%94%9F%E7%BD%91'
 title: 我和学生网
-wordpress_id: 500
+wordpress_id: 490
 categories:
 - 近未来
 ---

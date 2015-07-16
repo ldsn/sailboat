@@ -59,34 +59,34 @@ wordpress_id: 350
 
 ===第五版文化衫背面===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/beimian.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/beimian.jpg)
 
 
 ===第五版文化衫网络部===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/wangluo.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/wangluo.jpg)
 
 
 ===第五版文化衫美工部===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/meigong.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/meigong.jpg)
 
 
 ===第五版文化衫秘书处===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/mishu.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/mishu.jpg)
 
 
 ===第五版文化衫编辑部===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/bianji.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/bianji.jpg)
 
 
 ===第五版文化衫摄影部===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/sheying.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/sheying.png)
 
 
 ===第五版文化衫运营部===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2015/07/16/yunying.jpg)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/yunying.png)

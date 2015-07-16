@@ -84,9 +84,9 @@ wordpress_id: 350
 
 ===第五版文化衫摄影部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/sheying.png)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/sheying.jpg)
 
 
 ===第五版文化衫运营部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/yunying.png)
+![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/yunying.jpg)

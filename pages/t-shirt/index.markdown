@@ -13,33 +13,33 @@ wordpress_id: 350
 
 ===第一版文化衫正面===
 
-![2013-09-19-0455](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0455-300x168.jpg)
+![2013-09-19-0455](./uploads/2013/06/2013-09-19-0455-300x168.jpg)
 
 ===第一版文化衫背面===
 
-![2013-09-19-0456](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0456-300x168.jpg)
+![2013-09-19-0456](./uploads/2013/06/2013-09-19-0456-300x168.jpg)
 
 ===第二版文化衫正面===
 
-![2013-09-19-0461](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0461-300x168.jpg)
+![2013-09-19-0461](./uploads/2013/06/2013-09-19-0461-300x168.jpg)
 
 
 
 ===第二版文化衫背面===
 
-![2013-09-19-0458](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0458-300x168.jpg)
+![2013-09-19-0458](./uploads/2013/06/2013-09-19-0458-300x168.jpg)
 
 
 
 ===第三版文化衫正面===
 
-![2013-09-19-0459](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0459-300x168.jpg)
+![2013-09-19-0459](./uploads/2013/06/2013-09-19-0459-300x168.jpg)
 
 
 
 ===第三版文化衫背面===
 
-![2013-09-19-0462](http://sailboat.ldustu.com/uploads/2013/06/2013-09-19-0462-300x168.jpg)
+![2013-09-19-0462](./uploads/2013/06/2013-09-19-0462-300x168.jpg)
 
 
 
@@ -47,46 +47,46 @@ wordpress_id: 350
 
 ===第四版文化衫正面===
 
-![正面2](http://sailboat.ldustu.com/uploads/2013/06/正-2-169x300.jpg)
+![正面2](./uploads/2013/06/正-2-169x300.jpg)
 
 
 
 ===第四版文化衫背面===
 
-![背面2](http://sailboat.ldustu.com/uploads/2013/06/反面2-169x300.jpg)
+![背面2](./uploads/2013/06/反面2-169x300.jpg)
 
 
 
 ===第五版文化衫背面===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/beimian.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/beimian.jpg)
 
 
 ===第五版文化衫网络部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/wangluo.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/wangluo.jpg)
 
 
 ===第五版文化衫美工部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/meigong.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/meigong.jpg)
 
 
 ===第五版文化衫秘书处===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/mishu.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/mishu.jpg)
 
 
 ===第五版文化衫编辑部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/bianji.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/bianji.jpg)
 
 
 ===第五版文化衫摄影部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/sheying.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/sheying.jpg)
 
 
 ===第五版文化衫运营部===
 
-![2015-07-16-2207](http://sailboat.ldustu.com/uploads/2015/07/16/yunying.jpg)
+![2015-07-16-2207](./uploads/2015/07/16/yunying.jpg)
